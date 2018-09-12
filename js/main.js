@@ -98,7 +98,7 @@ function fetchBookmarks() {
     test if bookmark results show
      bookmarksResults.innerHTML += name;
    */
-   bookmarksResults.innerHTML += '<div class="well">'+
+   bookmarksResults.innerHTML += '<div class="breadcrumb">'+
                                  '<h3>'+name+
                                  ' <a class="btn btn-primary" target="_blank" href="'+url+'">Visit</a> ' +
                                  ' <a onclick="deleteBookmark(\''+url+'\')" class="btn btn-danger" href="#">Delete</a> ' +
