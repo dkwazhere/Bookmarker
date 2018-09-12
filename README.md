@@ -26,4 +26,4 @@ A step by step series of how to install the application.
 coming soon
 
 ## Screen Shots
-![alt text](https://i.imgur.com/8cF5X92.png)
+![alt text](https://i.imgur.com/18flDCi.png)
