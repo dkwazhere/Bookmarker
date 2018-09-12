@@ -1,4 +1,4 @@
-# Fortnite Tracker
+# Bookmarker
 Use this application to keep track of your favorite Sites
 
 ## Technologies Used
