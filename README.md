@@ -1,6 +1,10 @@
 # Fortnite Tracker
-Use this application to track your stats or other player stats.
+Use this application to keep track of your favorite Sites
 
+## Technologies Used
+-Pure javascript, no frameworks
+-Bootstrap
+-HTML
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See below.
